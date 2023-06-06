@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    background-color: #3CB371;
+    align-items: center;
+}
+
+.headerName{
+    max-width: 300px;
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+    color: white;
+}
+  
+.header-left{
+    display: flex;
+    align-items: center;
+}
+  
+.logo{
+    max-width: 100px;
+    width: 100%;
+}
+.myButton{
+    margin: 15px;
+    max-width: 150px;
+    padding: 10px;
+}
